@@ -4,15 +4,15 @@
 ![GitHub followers](https://img.shields.io/github/followers/Shakirullahllc?style=social)  
 ![GitHub Stars](https://img.shields.io/github/stars/Shakirullahllc?style=social)  
 
-🚀 Passionate about **Python, Circuit Simulation, AI, and Software Development**  
+🚀 Passionate about **Python, AI, and Software Development**  
 
 ---
 
 ## 🛠️ Tech Stack  
 
 🔹 **Programming Languages:** Python, C++  
-🔹 **Software & Tools:** UniTrain LabSoft, ORCAD PSpice, Multisim, Jupyter Notebook, PyCharm  
-🔹 **Concepts & Skills:** Object-Oriented Programming (OOP), Data Structures, Digital Logic Design (DLD), AI Fundamentals  
+🔹 **Software & Tools:** Jupyter Notebook, PyCharm  
+🔹 **Concepts & Skills:** Object-Oriented Programming (OOP), Data Structures, AI Fundamentals  
 🔹 **Version Control:** Git, GitHub  
 
 ---
@@ -21,11 +21,10 @@
 
 - **Python Modules & Packages**  
 - **Machine Learning Basics**  
-- **Advanced Circuit Analysis (Mesh & Nodal Analysis, RLC Circuits)**  
 
 ---
 
-## 📈 GitHub Stats  
+## 🌀 GitHub Stats  
 
 ![Shakirullahllc's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shakirullahllc&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shakirullahllc&layout=compact&theme=radical)  
@@ -41,8 +40,7 @@
 ## 💡 Projects & Contributions  
 
 🔹 [Project 1 - Python OOP & Data Structures](#)  
-🔹 [Project 2 - Digital Logic Design Simulations](#)  
-🔹 [Project 3 - AI-based Circuit Analysis](#)  
+🔹 [Project 2 - AI-based Applications](#)  
 
 _Check out my repositories for more projects!_  
 
@@ -58,8 +56,9 @@ _Check out my repositories for more projects!_
 
 ## 🎯 Fun Fact  
 
-⚡ I love exploring how **AI can optimize circuit analysis** and automate problem-solving!  
+️ I love exploring how **AI can automate problem-solving!**  
 
 ---
 
-### 📌 **Keep Innovating & Coding! 🚀**  
+### 📌 **Keep Innovating & Coding! 🚀**
+
